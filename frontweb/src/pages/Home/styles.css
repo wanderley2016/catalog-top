@@ -18,6 +18,13 @@
   background: #a0a9b6;
 
 }
+.home-button-container p{
+  display: flex;
+  width: 260px;
+  font-size: 18px;
+  color: #585858;
+  align-items: center;
+}
 
 .home-content-container {
   display: flex;

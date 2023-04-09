@@ -26,6 +26,9 @@ const Home = () => {
             <Link to="/products">
               <ButtonIcon />
             </Link>
+            <p>
+              comece agora a navegar
+            </p>
           </div>
         </div>
       </div>
